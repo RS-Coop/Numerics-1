@@ -1,2 +1,17 @@
 #Dont worry about flipped assignments
 flipped/
+
+#Jupyter Notebook
+.ipynb_checkpoints/
+
+#LaTex
+*.aux
+*.log
+*.gz
+*.tex
+*.bib
+*.bbl
+*.blg
+*.out
+*.toc
+*.cls
